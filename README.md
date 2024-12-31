@@ -1,6 +1,11 @@
 ## InTraGen: Trajectory-controlled Video Generation for Object Interactions<br><sub>PyTorch Implementation</sub>
 ### [Paper](https://arxiv.org/abs/2411.16804)
 
+<div align="center">
+<img src=assets/logo.png width="80%"/>
+</div>
+<p align="center">
+
 ### How to Run
 
 Dowload dataset
