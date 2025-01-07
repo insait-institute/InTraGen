@@ -12,8 +12,8 @@
 > (*Equal Contribution)
 
 <!-- <video controls loop src="https://github.com/insait-institute/InTraGen.git/assets/video_demo.mp4" type="video/mp4"></video> -->
-<video controls loop src="assets/video_demo.mp4" type="video/mp4"></video>
-
+<!-- <video controls loop src="assets/video_demo.mp4" type="video/mp4"></video> -->
+![Demo GIF](assets/video_demo.gif)
 
 ### How to Run
 
