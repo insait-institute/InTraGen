@@ -11,8 +11,8 @@
 > [Zuhao Liu*](https://zuhaoliu.com/), [Aleksandar Yanev*](https://insait.ai/aleksandar-yanev/), [Ahmad Mahmood](https://ahmad-573.github.io/), [Ivan Nikolov](https://scholar.google.com/citations?user=K2m6cxcAAAAJ&hl=en&oi=sra), [Saman Motamed](https://sam-motamed.github.io/), [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/), [Xi Wang](https://xiwang1212.github.io/homepage/), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en&oi=ao), [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en&oi=ao)
 > (*Equal Contribution)
 
-<video controls loop src="https://github.com/insait-institute/InTraGen.git/assets/video_demo.mp4" type="video/mp4"></video>
-
+<!-- <video controls loop src="https://github.com/insait-institute/InTraGen.git/assets/video_demo.mp4" type="video/mp4"></video> -->
+<video controls loop src="assets/video_demo.mp4" type="video/mp4"></video>
 
 
 ### How to Run
