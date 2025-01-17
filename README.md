@@ -1,5 +1,6 @@
 ## InTraGen: Trajectory-controlled Video Generation for Object Interactions<br><sub>PyTorch Implementation</sub>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.03048-b31b1b.svg)](https://arxiv.org/abs/2411.16804)
+[![Static Badge](https://img.shields.io/badge/Intragen%20Datasets-HuggingFace-yellow?logoColor=violet%20Intragen%20Datasets)](https://huggingface.co/datasets/FlyingTin/InTraGen)
 
 <div align="center">
 <img src=assets/logo.png width="80%"/>
